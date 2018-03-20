@@ -15,12 +15,12 @@ $ cat aelfjj1or81uegj9ea8z31zro.html
 
 # Summary
 
-| ﻿Engine               | Takeover Possible | Reference                                                                                                                |
+| Engine               | Takeover Possible | Reference                                                                                                                |
 |----------------------|-------------------|--------------------------------------------------------------------------------------------------------------------------|
 | AWS/S3               | Yes               |                                                                                                                          |
 | Bitbucket            | Yes               |                                                                                                                          |
 | Campaign Monitor     | Yes               | https://help.campaignmonitor.com/custom-domain-names                                                                     |
-| Cargo Collective     | Yes               | http://support.2.cargocollective.com/Using-a-Third-Party-Domain                                                          |
+| [Cargo Collective]     | Yes               | http://support.2.cargocollective.com/Using-a-Third-Party-Domain                                                          |
 | Cloudfront           | Yes               | https://blog.zsec.uk/subdomainhijack/                                                                                    |
 | Fastly               | Yes               |                                                                                                                          |
 | Feedpress            | Yes               | https://hackerone.com/reports/195350                                                                                     |
@@ -47,8 +47,8 @@ $ cat aelfjj1or81uegj9ea8z31zro.html
 | Zendesk              | Yes               | https://support.zendesk.com/hc/en-us/articles/203664356-Changing-the-address-of-your-Help-Center-subdomain-host-mapping- |
 
 
-Cargo Collective
-=============
+# Detail
+## Cargo Collective [Cargo Collective]
 
 **Answer:** Yes :heavy_check_mark: 
 
