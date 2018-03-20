@@ -20,7 +20,7 @@ $ cat aelfjj1or81uegj9ea8z31zro.html
 | AWS/S3               | Yes               |                                                                                                                          |
 | Bitbucket            | Yes               |                                                                                                                          |
 | Campaign Monitor     | Yes               | https://help.campaignmonitor.com/custom-domain-names                                                                     |
-| [Cargo Collective](#Cargo-Collective)     | Yes               | http://support.2.cargocollective.com/Using-a-Third-Party-Domain                                                          |
+| [Cargo Collective](#cargo-collective)     | Yes               | http://support.2.cargocollective.com/Using-a-Third-Party-Domain                                                          |
 | Cloudfront           | Yes               | https://blog.zsec.uk/subdomainhijack/                                                                                    |
 | Fastly               | Yes               |                                                                                                                          |
 | Feedpress            | Yes               | https://hackerone.com/reports/195350                                                                                     |
